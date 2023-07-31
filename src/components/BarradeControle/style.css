@@ -1,0 +1,41 @@
+
+.menu{
+    width: 100%;
+    height: 132px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:flex-start;
+}
+.musica-no-player{
+    width: 221px;
+    height: 56px;
+    color: white;
+    margin-left: 20px;
+}
+.controle{
+    display:flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+   position: absolute;
+    width: 328px;
+    height: 64px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+.bto-pause img{
+    
+    width: 45px;
+    height: 45px;
+    
+    cursor: pointer;
+} 
+
+.bto img{
+    width: 38px;
+    height: 38px;
+    cursor: pointer;
+
+}

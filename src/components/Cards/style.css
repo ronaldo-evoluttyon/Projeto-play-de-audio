@@ -1,0 +1,48 @@
+
+*{
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+
+.user-card{
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    height: 436px;
+    width: 180px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 8px 4px 0 rgba(0, 0, 0, 0.5 );
+    margin: 10px;
+  }
+  .capa-album{
+    
+    height: 260px;
+    width: 180px;
+    
+    padding: 1px;
+  
+  }
+  .user-card strong{
+    margin-top: 5px;
+    margin-right: 135px;
+    color: #FFFFFF;
+  
+  }
+  .user-card span{
+    color: #CCC3C3;
+    font-size: 12px;
+    padding: 5px;
+    font-size: 16PX;
+    text-align: justify;
+
+  }
+  .cards{
+    width: 90%;
+    flex-direction: row;
+    padding: 0px;
+    display: flex;
+  }
+  

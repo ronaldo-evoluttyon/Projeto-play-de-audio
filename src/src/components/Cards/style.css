@@ -1,0 +1,13 @@
+
+*{
+    padding: 0;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.cards{
+    width: 260px;
+    height: 50px;
+    background-color: aqua;
+    border-bottom: 15px;
+}
